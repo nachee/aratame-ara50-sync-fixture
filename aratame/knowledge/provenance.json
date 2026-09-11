@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "sources": [
+    {
+      "id": "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f",
+      "title": "Invented customer receipt clarification",
+      "source": "manual",
+      "updatedAt": "2026-09-11T19:24:56.955Z",
+      "sha256": "84bc58271560fb6f4a3b1d9e41c326860c0fde8a5abdcc4ca6267766d0621464",
+      "retention": "cloud",
+      "snapshotId": "artifact-source:bfadf766bb5207ebbd1aa0fb6f63ab8a5d42fa1315839859cd17756939d1fb54"
+    },
+    {
+      "id": "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2",
+      "title": "R50SYNC-1: Invented ARA50 parcel collection behavior",
+      "source": "linear",
+      "sourceUrl": "https://linear.app/aratamedev/issue/R50SYNC-1/invented-ara50-parcel-collection-behavior",
+      "updatedAt": "2026-09-11T19:22:26.183Z",
+      "sha256": "ec7e96259b015541d74b1bd8196d2593fadefa804fdb0d0233e05b89a7169967",
+      "sourceIdentity": "99c5188b-6eaa-4fa3-b1c3-ab0fd5127276",
+      "ingestedAt": "2026-09-11T19:22:26.183Z",
+      "upstreamVersion": "2026-09-11T19:08:29.659Z",
+      "retention": "references"
+    },
+    {
+      "id": "7499b0b5-62ca-407e-a802-0e7753d22d62",
+      "title": "R50SYNC-2: Invented ARA50 shared receipt context",
+      "source": "linear",
+      "sourceUrl": "https://linear.app/aratamedev/issue/R50SYNC-2/invented-ara50-shared-receipt-context",
+      "updatedAt": "2026-09-11T19:22:26.183Z",
+      "sha256": "e80a31db86b616c45bc3724ebfc6b35b2e23b1261f7d22acc3b6139d3813b55c",
+      "sourceIdentity": "6508fa64-5d4e-4432-8bd8-d11276e24023",
+      "ingestedAt": "2026-09-11T19:22:26.183Z",
+      "upstreamVersion": "2026-09-11T19:08:29.837Z",
+      "retention": "references"
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "153f6169-b544-4c81-9fca-6c5ed4f30f1b",
+      "title": "Controlled general collection knowledge",
+      "surface": "general",
+      "path": "aratame/knowledge/pages/7980bd9461e7b86413c7c1d14094bec0.md",
+      "origin": "generated",
+      "citations": [
+        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f",
+        "7499b0b5-62ca-407e-a802-0e7753d22d62"
+      ],
+      "sourceVersions": {
+        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f": "2026-09-11T19:24:56.955Z",
+        "7499b0b5-62ca-407e-a802-0e7753d22d62": "2026-09-11T19:22:26.183Z"
+      },
+      "gaps": [],
+      "history": []
+    },
+    {
+      "id": "4eb9ff3f-fa29-44cd-aff1-6c0a70df2717",
+      "title": "Controlled collection collection knowledge",
+      "surface": "collection",
+      "path": "aratame/knowledge/pages/6d47f1f38ef590147644da2edde24c20.md",
+      "origin": "generated",
+      "citations": [
+        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f",
+        "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2",
+        "7499b0b5-62ca-407e-a802-0e7753d22d62"
+      ],
+      "sourceVersions": {
+        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f": "2026-09-11T19:24:56.955Z",
+        "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2": "2026-09-11T19:22:26.183Z",
+        "7499b0b5-62ca-407e-a802-0e7753d22d62": "2026-09-11T19:22:26.183Z"
+      },
+      "gaps": [],
+      "history": []
+    },
+    {
+      "id": "f26180b8-35d5-4c15-90eb-2a44da758dba",
+      "title": "Controlled R50SYNC collection knowledge",
+      "surface": "R50SYNC",
+      "path": "aratame/knowledge/pages/6b37856f50b8051bc11f54e71fc9f44d.md",
+      "origin": "generated",
+      "citations": [
+        "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2",
+        "7499b0b5-62ca-407e-a802-0e7753d22d62",
+        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f"
+      ],
+      "sourceVersions": {
+        "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2": "2026-09-11T19:22:26.183Z",
+        "7499b0b5-62ca-407e-a802-0e7753d22d62": "2026-09-11T19:22:26.183Z",
+        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f": "2026-09-11T19:24:56.955Z"
+      },
+      "gaps": [],
+      "history": [
+        {
+          "id": "0058e28e-7a30-4047-a289-e3b6c160cbef",
+          "path": "aratame/knowledge/history/4b17c8a8cc9c5da3ebf18695a00e1fd6.md",
+          "updatedAt": "2026-09-11T19:24:57.960Z"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "0058e28e-7a30-4047-a289-e3b6c160cbef",
+      "path": "aratame/knowledge/history/4b17c8a8cc9c5da3ebf18695a00e1fd6.md",
+      "updatedAt": "2026-09-11T19:24:57.960Z",
+      "provenancePath": "aratame/knowledge/history/4b17c8a8cc9c5da3ebf18695a00e1fd6.md"
+    }
+  ]
+}
