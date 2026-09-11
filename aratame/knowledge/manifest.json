@@ -15,16 +15,40 @@
       "sha256": "3818d0a00def173be3ea6c229beb33521b41be78a88e53a2adfd6e25ef391ec1"
     },
     {
+      "path": "aratame/knowledge/history/7cd4d34aeac0be350b80d1e741b6a9c0.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "a66179030eb41ffeddc156e206573137dc92f45fa577604630c6be306503f0c2"
+    },
+    {
+      "path": "aratame/knowledge/history/88056e085ae3827aa6cc47bf0ec30f7f.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "40b8ce6d42417ef431f37041bdc08076a9c09dd6afc940847d68ed1129c25bd5"
+    },
+    {
+      "path": "aratame/knowledge/history/b80caf8c2319dd213f22b317f734ae43.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "f3daf0e5785563f81a59d92ad589643baaeba2aae2454165fa8bf3612a24e3e2"
+    },
+    {
+      "path": "aratame/knowledge/history/bfc7ae45b1880b373f6c7f9d15490c1c.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "5d69a0dc7b85a1d35bd39b7f71cc47d36f672e69de2335a4b7211c25f89886b6"
+    },
+    {
       "path": "aratame/knowledge/pages/6b37856f50b8051bc11f54e71fc9f44d.md",
       "kind": "knowledge",
       "origin": "generated",
-      "sha256": "d7b9d68d85ae2e9d295758fe26e68ed5b753f43c8052666cc10f544cc5edf554"
+      "sha256": "55e02e03086abd21c769313a87e6bbad652d96cdc0c9fc3c00639e3f7599b82f"
     },
     {
       "path": "aratame/knowledge/pages/6d47f1f38ef590147644da2edde24c20.md",
       "kind": "knowledge",
       "origin": "generated",
-      "sha256": "495510f3890c594ef1c76a8c7142d76a25d1239c0b79caad0a4e57915b79a1c9"
+      "sha256": "d3cfb94bcf3b1776751efba854a340e58a8293c0ddbe8a953790eabd7cf60cd9"
     },
     {
       "path": "aratame/knowledge/pages/7980bd9461e7b86413c7c1d14094bec0.md",
@@ -36,7 +60,7 @@
       "path": "aratame/knowledge/provenance.json",
       "kind": "provenance",
       "origin": "generated",
-      "sha256": "d26b79b2ed6b0ef3a214b70edac344f0054fe64aecf69a199bffa3ee7bf2b1d7"
+      "sha256": "be7d2fe95ef82b2c11eb49cdf2101908b796aa0ba0f9715824a226d4e8ceef74"
     }
   ],
   "knowledge": [
@@ -58,37 +82,48 @@
       "history": []
     },
     {
-      "id": "4eb9ff3f-fa29-44cd-aff1-6c0a70df2717",
+      "id": "16a3b492-9a7a-4df8-b34d-a717773a7998",
       "title": "Controlled collection collection knowledge",
       "surface": "collection",
       "path": "aratame/knowledge/pages/6d47f1f38ef590147644da2edde24c20.md",
       "origin": "generated",
       "citations": [
         "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f",
-        "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2",
+        "a15e2851-1b32-4e89-8197-d17b047f5c94",
         "7499b0b5-62ca-407e-a802-0e7753d22d62"
       ],
       "sourceVersions": {
         "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f": "2026-09-11T19:24:56.955Z",
-        "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2": "2026-09-11T19:22:26.183Z",
+        "a15e2851-1b32-4e89-8197-d17b047f5c94": "2026-09-11T19:29:24.886Z",
         "7499b0b5-62ca-407e-a802-0e7753d22d62": "2026-09-11T19:22:26.183Z"
       },
       "gaps": [],
-      "history": []
+      "history": [
+        {
+          "id": "4eb9ff3f-fa29-44cd-aff1-6c0a70df2717",
+          "path": "aratame/knowledge/history/bfc7ae45b1880b373f6c7f9d15490c1c.md",
+          "updatedAt": "2026-09-11T19:32:09.052Z"
+        },
+        {
+          "id": "4eb9ff3f-fa29-44cd-aff1-6c0a70df2717",
+          "path": "aratame/knowledge/history/7cd4d34aeac0be350b80d1e741b6a9c0.md",
+          "updatedAt": "2026-09-11T19:28:48.784Z"
+        }
+      ]
     },
     {
-      "id": "f26180b8-35d5-4c15-90eb-2a44da758dba",
+      "id": "188e6623-2add-456d-96ee-f73a1caf0c5e",
       "title": "Controlled R50SYNC collection knowledge",
       "surface": "R50SYNC",
       "path": "aratame/knowledge/pages/6b37856f50b8051bc11f54e71fc9f44d.md",
       "origin": "generated",
       "citations": [
-        "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2",
+        "a15e2851-1b32-4e89-8197-d17b047f5c94",
         "7499b0b5-62ca-407e-a802-0e7753d22d62",
         "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f"
       ],
       "sourceVersions": {
-        "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2": "2026-09-11T19:22:26.183Z",
+        "a15e2851-1b32-4e89-8197-d17b047f5c94": "2026-09-11T19:29:24.886Z",
         "7499b0b5-62ca-407e-a802-0e7753d22d62": "2026-09-11T19:22:26.183Z",
         "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f": "2026-09-11T19:24:56.955Z"
       },
@@ -98,6 +133,16 @@
           "id": "0058e28e-7a30-4047-a289-e3b6c160cbef",
           "path": "aratame/knowledge/history/4b17c8a8cc9c5da3ebf18695a00e1fd6.md",
           "updatedAt": "2026-09-11T19:24:57.960Z"
+        },
+        {
+          "id": "f26180b8-35d5-4c15-90eb-2a44da758dba",
+          "path": "aratame/knowledge/history/88056e085ae3827aa6cc47bf0ec30f7f.md",
+          "updatedAt": "2026-09-11T19:32:07.047Z"
+        },
+        {
+          "id": "f26180b8-35d5-4c15-90eb-2a44da758dba",
+          "path": "aratame/knowledge/history/b80caf8c2319dd213f22b317f734ae43.md",
+          "updatedAt": "2026-09-11T19:28:48.784Z"
         }
       ]
     }
@@ -113,18 +158,6 @@
       "snapshotId": "artifact-source:bfadf766bb5207ebbd1aa0fb6f63ab8a5d42fa1315839859cd17756939d1fb54"
     },
     {
-      "id": "3b2c9beb-d68c-4ca9-9baf-cc84f36478e2",
-      "title": "R50SYNC-1: Invented ARA50 parcel collection behavior",
-      "source": "linear",
-      "sourceUrl": "https://linear.app/aratamedev/issue/R50SYNC-1/invented-ara50-parcel-collection-behavior",
-      "updatedAt": "2026-09-11T19:22:26.183Z",
-      "sha256": "ec7e96259b015541d74b1bd8196d2593fadefa804fdb0d0233e05b89a7169967",
-      "sourceIdentity": "99c5188b-6eaa-4fa3-b1c3-ab0fd5127276",
-      "ingestedAt": "2026-09-11T19:22:26.183Z",
-      "upstreamVersion": "2026-09-11T19:08:29.659Z",
-      "retention": "references"
-    },
-    {
       "id": "7499b0b5-62ca-407e-a802-0e7753d22d62",
       "title": "R50SYNC-2: Invented ARA50 shared receipt context",
       "source": "linear",
@@ -134,6 +167,18 @@
       "sourceIdentity": "6508fa64-5d4e-4432-8bd8-d11276e24023",
       "ingestedAt": "2026-09-11T19:22:26.183Z",
       "upstreamVersion": "2026-09-11T19:08:29.837Z",
+      "retention": "references"
+    },
+    {
+      "id": "a15e2851-1b32-4e89-8197-d17b047f5c94",
+      "title": "R50SYNC-1: Invented ARA50 parcel collection behavior",
+      "source": "linear",
+      "sourceUrl": "https://linear.app/aratamedev/issue/R50SYNC-1/invented-ara50-parcel-collection-behavior",
+      "updatedAt": "2026-09-11T19:29:24.886Z",
+      "sha256": "51a924d7a2527f71e672ddb557d1fee86018d1e7f794617ab99dcd47b07b4cd3",
+      "sourceIdentity": "99c5188b-6eaa-4fa3-b1c3-ab0fd5127276",
+      "ingestedAt": "2026-09-11T19:29:24.886Z",
+      "upstreamVersion": "2026-09-11T19:29:22.910Z",
       "retention": "references"
     }
   ],
