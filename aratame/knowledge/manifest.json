@@ -9,10 +9,40 @@
       "sha256": "e5d62236f01ed1acff729caec4f3af184781eb37716113968b89716156ed68d6"
     },
     {
+      "path": "aratame/knowledge/history/04065492b5129670381063fbb2c51253.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "231d63a56bec1e20a9e8cf01d61565d5c9d650cdc33153fb06bd9497499ddfde"
+    },
+    {
+      "path": "aratame/knowledge/history/12f04113415ec461e192f136648877f8.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "4e4084149cf8bfb739e16310f54e9e631ea9787aec430334b9553c261eefd7fe"
+    },
+    {
+      "path": "aratame/knowledge/history/249fd6175e9a8b9bf8db8629b1f77655.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "1d41ad0a2044435b8dc8383c3449ff04b84b9f6a68aff02daf4284f2c19849c6"
+    },
+    {
+      "path": "aratame/knowledge/history/37309e35efda34d8287e822fe27afc5b.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "b282d4682151686d11c20cf1d4b622dfd266442e69baa83d74a53347581754ce"
+    },
+    {
       "path": "aratame/knowledge/history/4b17c8a8cc9c5da3ebf18695a00e1fd6.md",
       "kind": "knowledge",
       "origin": "generated",
       "sha256": "3818d0a00def173be3ea6c229beb33521b41be78a88e53a2adfd6e25ef391ec1"
+    },
+    {
+      "path": "aratame/knowledge/history/60582cae6b1e7176491852c13503003a.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "30a5cb553d9fbd2f6d994c2376b0e34ffb31fb2176e340dc8a7b9822aeda2cb0"
     },
     {
       "path": "aratame/knowledge/history/7cd4d34aeac0be350b80d1e741b6a9c0.md",
@@ -27,6 +57,12 @@
       "sha256": "40b8ce6d42417ef431f37041bdc08076a9c09dd6afc940847d68ed1129c25bd5"
     },
     {
+      "path": "aratame/knowledge/history/8d6b59a643b5b81bf17d8944652a4816.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "a2e113a5143a57105fd157f97857ec1c3d0a3db170a80460d4488bd87961600b"
+    },
+    {
       "path": "aratame/knowledge/history/b80caf8c2319dd213f22b317f734ae43.md",
       "kind": "knowledge",
       "origin": "generated",
@@ -39,66 +75,77 @@
       "sha256": "5d69a0dc7b85a1d35bd39b7f71cc47d36f672e69de2335a4b7211c25f89886b6"
     },
     {
+      "path": "aratame/knowledge/history/d4f8b7549305c5724b69d0e1974d9a00.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "0284a677f1331ccb589f11d44d61676cd0781d78cb3f8e2e70cdaedacaddbea6"
+    },
+    {
+      "path": "aratame/knowledge/history/dadebcde573ad81b4366dc074a37fbfd.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "c772a97cb2d3fad176534f9d771720e8fa0034e0df5a1ef04dfee78c540c70c0"
+    },
+    {
+      "path": "aratame/knowledge/history/e38ed3ffd93a985fb5d5fac3db73792e.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "99f2600b71cbedf605e0c333169d3c6ddf04073a84333da2c4a749e06bee21c4"
+    },
+    {
       "path": "aratame/knowledge/pages/6b37856f50b8051bc11f54e71fc9f44d.md",
       "kind": "knowledge",
       "origin": "generated",
-      "sha256": "55e02e03086abd21c769313a87e6bbad652d96cdc0c9fc3c00639e3f7599b82f"
+      "sha256": "41f087d35c6d99bb54107c19c63684431ae25a1b515b09e8f3dd5a87cb8f7a09"
     },
     {
       "path": "aratame/knowledge/pages/6d47f1f38ef590147644da2edde24c20.md",
       "kind": "knowledge",
       "origin": "generated",
-      "sha256": "d3cfb94bcf3b1776751efba854a340e58a8293c0ddbe8a953790eabd7cf60cd9"
+      "sha256": "21977f7c3c9211c1b3e3a5745debd21760cb2a5f5e1d0e8c2027d9c3d6b03c71"
     },
     {
       "path": "aratame/knowledge/pages/7980bd9461e7b86413c7c1d14094bec0.md",
       "kind": "knowledge",
       "origin": "generated",
-      "sha256": "55aa319db0a94777826613052b770661785f05bf5ca11dec0ccc11f4a0a3015b"
+      "sha256": "0172fd98e6946df87053f9dc31d99ba2e7b908ef97a95ecc245c53eab27f1379"
     },
     {
       "path": "aratame/knowledge/provenance.json",
       "kind": "provenance",
       "origin": "generated",
-      "sha256": "be7d2fe95ef82b2c11eb49cdf2101908b796aa0ba0f9715824a226d4e8ceef74"
+      "sha256": "24cc6d57a4d19e52ab85d026864d928a2492b5ce522656a44d198421a6b49729"
     }
   ],
   "knowledge": [
     {
-      "id": "153f6169-b544-4c81-9fca-6c5ed4f30f1b",
-      "title": "Controlled general collection knowledge",
-      "surface": "general",
-      "path": "aratame/knowledge/pages/7980bd9461e7b86413c7c1d14094bec0.md",
-      "origin": "generated",
-      "citations": [
-        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f",
-        "7499b0b5-62ca-407e-a802-0e7753d22d62"
-      ],
-      "sourceVersions": {
-        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f": "2026-09-11T19:24:56.955Z",
-        "7499b0b5-62ca-407e-a802-0e7753d22d62": "2026-09-11T19:22:26.183Z"
-      },
-      "gaps": [],
-      "history": []
-    },
-    {
-      "id": "16a3b492-9a7a-4df8-b34d-a717773a7998",
+      "id": "6628f844-e01c-4875-9a9e-fc003e0e473d",
       "title": "Controlled collection collection knowledge",
       "surface": "collection",
       "path": "aratame/knowledge/pages/6d47f1f38ef590147644da2edde24c20.md",
       "origin": "generated",
       "citations": [
         "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f",
-        "a15e2851-1b32-4e89-8197-d17b047f5c94",
-        "7499b0b5-62ca-407e-a802-0e7753d22d62"
+        "f957f534-f0aa-4f59-a08a-1b25381faa92",
+        "b0ffd57a-70fd-4e00-ab72-dedc0201241d"
       ],
       "sourceVersions": {
         "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f": "2026-09-11T19:24:56.955Z",
-        "a15e2851-1b32-4e89-8197-d17b047f5c94": "2026-09-11T19:29:24.886Z",
-        "7499b0b5-62ca-407e-a802-0e7753d22d62": "2026-09-11T19:22:26.183Z"
+        "f957f534-f0aa-4f59-a08a-1b25381faa92": "2026-09-11T19:40:33.008Z",
+        "b0ffd57a-70fd-4e00-ab72-dedc0201241d": "2026-09-11T19:40:33.007Z"
       },
       "gaps": [],
       "history": [
+        {
+          "id": "16a3b492-9a7a-4df8-b34d-a717773a7998",
+          "path": "aratame/knowledge/history/37309e35efda34d8287e822fe27afc5b.md",
+          "updatedAt": "2026-09-11T19:35:50.575Z"
+        },
+        {
+          "id": "4100eb34-e06d-4f9c-9450-c883c3acc78f",
+          "path": "aratame/knowledge/history/dadebcde573ad81b4366dc074a37fbfd.md",
+          "updatedAt": "2026-09-11T19:40:37.132Z"
+        },
         {
           "id": "4eb9ff3f-fa29-44cd-aff1-6c0a70df2717",
           "path": "aratame/knowledge/history/bfc7ae45b1880b373f6c7f9d15490c1c.md",
@@ -108,23 +155,28 @@
           "id": "4eb9ff3f-fa29-44cd-aff1-6c0a70df2717",
           "path": "aratame/knowledge/history/7cd4d34aeac0be350b80d1e741b6a9c0.md",
           "updatedAt": "2026-09-11T19:28:48.784Z"
+        },
+        {
+          "id": "16a3b492-9a7a-4df8-b34d-a717773a7998",
+          "path": "aratame/knowledge/history/e38ed3ffd93a985fb5d5fac3db73792e.md",
+          "updatedAt": "2026-09-11T19:34:59.466Z"
         }
       ]
     },
     {
-      "id": "188e6623-2add-456d-96ee-f73a1caf0c5e",
+      "id": "6b9e18c5-23ef-42a8-a1ff-2f92e88ded1f",
       "title": "Controlled R50SYNC collection knowledge",
       "surface": "R50SYNC",
       "path": "aratame/knowledge/pages/6b37856f50b8051bc11f54e71fc9f44d.md",
       "origin": "generated",
       "citations": [
-        "a15e2851-1b32-4e89-8197-d17b047f5c94",
-        "7499b0b5-62ca-407e-a802-0e7753d22d62",
+        "f957f534-f0aa-4f59-a08a-1b25381faa92",
+        "b0ffd57a-70fd-4e00-ab72-dedc0201241d",
         "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f"
       ],
       "sourceVersions": {
-        "a15e2851-1b32-4e89-8197-d17b047f5c94": "2026-09-11T19:29:24.886Z",
-        "7499b0b5-62ca-407e-a802-0e7753d22d62": "2026-09-11T19:22:26.183Z",
+        "f957f534-f0aa-4f59-a08a-1b25381faa92": "2026-09-11T19:40:33.008Z",
+        "b0ffd57a-70fd-4e00-ab72-dedc0201241d": "2026-09-11T19:40:33.007Z",
         "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f": "2026-09-11T19:24:56.955Z"
       },
       "gaps": [],
@@ -135,6 +187,16 @@
           "updatedAt": "2026-09-11T19:24:57.960Z"
         },
         {
+          "id": "188e6623-2add-456d-96ee-f73a1caf0c5e",
+          "path": "aratame/knowledge/history/249fd6175e9a8b9bf8db8629b1f77655.md",
+          "updatedAt": "2026-09-11T19:35:46.754Z"
+        },
+        {
+          "id": "7b010027-d595-4ea7-b102-42d16c408c5a",
+          "path": "aratame/knowledge/history/d4f8b7549305c5724b69d0e1974d9a00.md",
+          "updatedAt": "2026-09-11T19:40:33.218Z"
+        },
+        {
           "id": "f26180b8-35d5-4c15-90eb-2a44da758dba",
           "path": "aratame/knowledge/history/88056e085ae3827aa6cc47bf0ec30f7f.md",
           "updatedAt": "2026-09-11T19:32:07.047Z"
@@ -143,6 +205,44 @@
           "id": "f26180b8-35d5-4c15-90eb-2a44da758dba",
           "path": "aratame/knowledge/history/b80caf8c2319dd213f22b317f734ae43.md",
           "updatedAt": "2026-09-11T19:28:48.784Z"
+        },
+        {
+          "id": "188e6623-2add-456d-96ee-f73a1caf0c5e",
+          "path": "aratame/knowledge/history/04065492b5129670381063fbb2c51253.md",
+          "updatedAt": "2026-09-11T19:34:59.466Z"
+        }
+      ]
+    },
+    {
+      "id": "e81e73e5-e948-45fb-aa61-3bc96535a09d",
+      "title": "Controlled general collection knowledge",
+      "surface": "general",
+      "path": "aratame/knowledge/pages/7980bd9461e7b86413c7c1d14094bec0.md",
+      "origin": "generated",
+      "citations": [
+        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f",
+        "b0ffd57a-70fd-4e00-ab72-dedc0201241d"
+      ],
+      "sourceVersions": {
+        "1ee4fcd9-e1a4-46f3-9ddb-7fe7f4c55d7f": "2026-09-11T19:24:56.955Z",
+        "b0ffd57a-70fd-4e00-ab72-dedc0201241d": "2026-09-11T19:40:33.007Z"
+      },
+      "gaps": [],
+      "history": [
+        {
+          "id": "153f6169-b544-4c81-9fca-6c5ed4f30f1b",
+          "path": "aratame/knowledge/history/60582cae6b1e7176491852c13503003a.md",
+          "updatedAt": "2026-09-11T19:35:52.582Z"
+        },
+        {
+          "id": "17572ad1-cc74-4552-af63-8d364d2411bc",
+          "path": "aratame/knowledge/history/12f04113415ec461e192f136648877f8.md",
+          "updatedAt": "2026-09-11T19:40:39.901Z"
+        },
+        {
+          "id": "153f6169-b544-4c81-9fca-6c5ed4f30f1b",
+          "path": "aratame/knowledge/history/8d6b59a643b5b81bf17d8944652a4816.md",
+          "updatedAt": "2026-09-11T19:34:59.466Z"
         }
       ]
     }
@@ -158,27 +258,27 @@
       "snapshotId": "artifact-source:bfadf766bb5207ebbd1aa0fb6f63ab8a5d42fa1315839859cd17756939d1fb54"
     },
     {
-      "id": "7499b0b5-62ca-407e-a802-0e7753d22d62",
+      "id": "b0ffd57a-70fd-4e00-ab72-dedc0201241d",
       "title": "R50SYNC-2: Invented ARA50 shared receipt context",
       "source": "linear",
       "sourceUrl": "https://linear.app/aratamedev/issue/R50SYNC-2/invented-ara50-shared-receipt-context",
-      "updatedAt": "2026-09-11T19:22:26.183Z",
+      "updatedAt": "2026-09-11T19:40:33.007Z",
       "sha256": "e80a31db86b616c45bc3724ebfc6b35b2e23b1261f7d22acc3b6139d3813b55c",
       "sourceIdentity": "6508fa64-5d4e-4432-8bd8-d11276e24023",
-      "ingestedAt": "2026-09-11T19:22:26.183Z",
+      "ingestedAt": "2026-09-11T19:40:33.007Z",
       "upstreamVersion": "2026-09-11T19:08:29.837Z",
       "retention": "references"
     },
     {
-      "id": "a15e2851-1b32-4e89-8197-d17b047f5c94",
+      "id": "f957f534-f0aa-4f59-a08a-1b25381faa92",
       "title": "R50SYNC-1: Invented ARA50 parcel collection behavior",
       "source": "linear",
       "sourceUrl": "https://linear.app/aratamedev/issue/R50SYNC-1/invented-ara50-parcel-collection-behavior",
-      "updatedAt": "2026-09-11T19:29:24.886Z",
-      "sha256": "51a924d7a2527f71e672ddb557d1fee86018d1e7f794617ab99dcd47b07b4cd3",
+      "updatedAt": "2026-09-11T19:40:33.008Z",
+      "sha256": "6c3f45848699c20742160eb71e1b7b570185ac66eeb6609cd90781364ec475e9",
       "sourceIdentity": "99c5188b-6eaa-4fa3-b1c3-ab0fd5127276",
-      "ingestedAt": "2026-09-11T19:29:24.886Z",
-      "upstreamVersion": "2026-09-11T19:29:22.910Z",
+      "ingestedAt": "2026-09-11T19:40:33.008Z",
+      "upstreamVersion": "2026-09-11T19:35:43.961Z",
       "retention": "references"
     }
   ],
